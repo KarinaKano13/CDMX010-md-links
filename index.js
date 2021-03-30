@@ -1,1 +1,3 @@
-console.log('estoy vivo')
+const functionality = require('./functionality.js')
+
+
