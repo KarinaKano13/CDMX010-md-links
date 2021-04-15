@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/KarinaKano13/CDMX010-md-links/issues"
   },
-  "homepage": "https://github.com/KarinaKano13/CDMX010-md-links#readme"
+  "homepage": "https://github.com/KarinaKano13/CDMX010-md-links#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.1"
+  }
 }
